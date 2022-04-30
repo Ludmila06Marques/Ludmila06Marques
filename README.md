@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome to my profile !  :P 👋
 
+😊Hi, my name is Ludmila. 
+😁I'm a Brazilian living in Barcelona
+😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.
 <!--
 **Ludmila06Marques/Ludmila06Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
