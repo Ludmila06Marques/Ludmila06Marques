@@ -1,6 +1,6 @@
 ### Welcome to my profile !  :P 👋
 
-😊Hi, my name is Ludmila. 
+😊Hi, my name is Ludmila. /n
 😁I'm a Brazilian living in Barcelona
 😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.
 <!--
