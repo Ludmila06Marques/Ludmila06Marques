@@ -18,7 +18,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/102738642/168431264-e0cd018b-2188-423a-bcfd-3e9accb691da.png" />
-<img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/168690123-37fa42db-649d-4237-9786-166f4fc8be4f.png" />
+<img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/168690239-d863ee70-4e29-4912-8121-1ba89f950078.png" />
 
 
 <!--
