@@ -19,7 +19,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/102738642/168431264-e0cd018b-2188-423a-bcfd-3e9accb691da.png" />
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/168690239-d863ee70-4e29-4912-8121-1ba89f950078.png" />
-<img align="left" alt="Vercel" width="26px" src="!https://user-images.githubusercontent.com/102738642/177226960-d57c3fa1-c596-4629-9eda-3a750824155e.png"/>
+<img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226960-d57c3fa1-c596-4629-9eda-3a750824155e.png"/>
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226933-5b69d4f2-c44b-4dce-ae02-2d2ef3be5cd2.png" />
 
 
