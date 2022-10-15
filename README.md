@@ -7,6 +7,8 @@
 😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.
 
 
+###  < You can also find me on />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/](https://www.linkedin.com/in/ludmila-marques-95961b217/))](https://www.linkedin.com/in/ludmila-marques-95961b217/)
 
 ### Languages and Tools:
 
