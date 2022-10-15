@@ -7,7 +7,7 @@
 😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.
 
 
-###  < You can also find me on />
+###  You can also find me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/](https://www.linkedin.com/in/ludmila-marques-95961b217/))](https://www.linkedin.com/in/ludmila-marques-95961b217/)
 
 ### Languages and Tools:
@@ -23,6 +23,8 @@
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/168690239-d863ee70-4e29-4912-8121-1ba89f950078.png" />
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226960-d57c3fa1-c596-4629-9eda-3a750824155e.png"/>
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226933-5b69d4f2-c44b-4dce-ae02-2d2ef3be5cd2.png" />
+
+ ![Snake animation](https://github.com/Ludmila06Marques/Ludmila06Marques/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
