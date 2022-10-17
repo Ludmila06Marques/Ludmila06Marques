@@ -23,11 +23,11 @@
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/168690239-d863ee70-4e29-4912-8121-1ba89f950078.png" />
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226960-d57c3fa1-c596-4629-9eda-3a750824155e.png"/>
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226933-5b69d4f2-c44b-4dce-ae02-2d2ef3be5cd2.png" />
-<img align="left" alt="Vercel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="Vercel" width="26px" src="https://logospng.org/wp-content/uploads/node-js.png" />
-<img align="left" alt="Vercel" width="26px" src="https://img2.freepng.es/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg" />
-<img align="left" alt="Vercel" width="26px" src="https://w7.pngwing.com/pngs/152/247/png-transparent-jest-hd-logo.png" />
-<img align="left" alt="Vercel" width="26px" src="https://img2.freepng.es/20190301/spw/kisspng-clip-art-logo-yellow-brand-line-aws-logo-transparent-amp-png-clipart-free-downlo-5c794060ba2988.8106720715514502087625.jpg" />
+<img align="left" alt="Vercel" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="Vercel" width="46px" src="https://logospng.org/wp-content/uploads/node-js.png" />
+<img align="left" alt="Vercel" width="46px" src="https://img2.freepng.es/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg" />
+<img align="left" alt="Vercel" width="46px" src="https://w7.pngwing.com/pngs/152/247/png-transparent-jest-hd-logo.png" />
+<img align="left" alt="Vercel" width="46px" src="https://img2.freepng.es/20190301/spw/kisspng-clip-art-logo-yellow-brand-line-aws-logo-transparent-amp-png-clipart-free-downlo-5c794060ba2988.8106720715514502087625.jpg" />
 
 <!--
 **Ludmila06Marques/Ludmila06Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
