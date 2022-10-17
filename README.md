@@ -23,8 +23,7 @@
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/168690239-d863ee70-4e29-4912-8121-1ba89f950078.png" />
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226960-d57c3fa1-c596-4629-9eda-3a750824155e.png"/>
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226933-5b69d4f2-c44b-4dce-ae02-2d2ef3be5cd2.png" />
-<img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226933-5b69d4f2-c44b-4dce-ae02-2d2ef3be5cd2.png" />
-
+<img align="left" alt="Vercel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 
 
 <!--
