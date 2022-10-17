@@ -24,7 +24,6 @@
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226960-d57c3fa1-c596-4629-9eda-3a750824155e.png"/>
 <img align="left" alt="Vercel" width="26px" src="https://user-images.githubusercontent.com/102738642/177226933-5b69d4f2-c44b-4dce-ae02-2d2ef3be5cd2.png" />
 
- ![Snake animation](https://github.com/Ludmila06Marques/Ludmila06Marques/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
