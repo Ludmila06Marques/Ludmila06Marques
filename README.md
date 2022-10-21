@@ -11,7 +11,7 @@
      <h6>-Typescript </h6>
      <h6> -Html </h6> 
      <h6>-Css</h6>  
-     <h6> -React js</h6>
+     <h6>-React js</h6>
      <h6>-Node js </h6> 
      <h6>-Express </h6> 
 
