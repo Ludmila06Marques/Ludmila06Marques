@@ -7,9 +7,6 @@
 😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.
 
 😉Technologies I use the most: 
-     <h6>-Javascript </h6>
-     <h6>-Typescript </h6>
-     <h6> -Html </h6> 
      <h6>-Css</h6>  
      <h6>-React js</h6>
      <h6>-Node js </h6> 
