@@ -1,3 +1,4 @@
+<a href="https://wakatime.com/@89988ffe-63aa-447e-9044-a2663635502b"><img src="https://wakatime.com/badge/user/89988ffe-63aa-447e-9044-a2663635502b.svg" alt="Total time coded since Mar 22 2022" /></a>
 ### Welcome to my profile !  :P 👋
 
 😊Hi, my name is Ludmila.
@@ -19,7 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/](https://www.linkedin.com/in/ludmila-marques-95961b217/))](https://www.linkedin.com/in/ludmila-marques-95961b217/)
 
 ### Languages and Tools:
-[![wakatime](https://wakatime.com/badge/user/89988ffe-63aa-447e-9044-a2663635502b.svg)](https://wakatime.com/@89988ffe-63aa-447e-9044-a2663635502b)
+
 
 <div >
   <a href="https://github.com/Ludmila06Marques">
