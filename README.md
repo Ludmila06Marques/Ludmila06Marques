@@ -1,4 +1,4 @@
-### Welcome to my profile !  :P 👋
+### Welcome to my profile !  :P 👋 <a href="https://wakatime.com/@89988ffe-63aa-447e-9044-a2663635502b"><img src="https://wakatime.com/badge/user/89988ffe-63aa-447e-9044-a2663635502b.svg" alt="Total time coded since Mar 22 2022" /></a>
 
 😊Hi, my name is Ludmila.
 
