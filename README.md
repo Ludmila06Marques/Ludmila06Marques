@@ -1,6 +1,6 @@
 ### Welcome to my profile !  :P 👋
 
-
+[![wakatime](https://wakatime.com/badge/user/89988ffe-63aa-447e-9044-a2663635502b.svg)](https://wakatime.com/@89988ffe-63aa-447e-9044-a2663635502b)
 
 😊Hi, my name is Ludmila.
 
@@ -19,7 +19,7 @@
 
 ###  You can also find me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/](https://www.linkedin.com/in/ludmila-marques-95961b217/))](https://www.linkedin.com/in/ludmila-marques-95961b217/)
-[![wakatime](https://wakatime.com/badge/user/89988ffe-63aa-447e-9044-a2663635502b.svg)](https://wakatime.com/@89988ffe-63aa-447e-9044-a2663635502b)
+
 ### Languages and Tools:
 
 <div >
