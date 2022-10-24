@@ -1,8 +1,5 @@
 ### Welcome to my profile !  :P 👋
 
-<a>
-[![wakatime](https://wakatime.com/badge/user/89988ffe-63aa-447e-9044-a2663635502b.svg)](https://wakatime.com/@89988ffe-63aa-447e-9044-a2663635502b)
-</a>
 😊Hi, my name is Ludmila.
 
 😁I'm a Brazilian living in Barcelona
