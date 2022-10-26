@@ -5,6 +5,7 @@
 <p>😊Hi, my name is Ludmila.</p>
 <p>😁I'm a Brazilian living in Barcelona</p>
 <p>😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.</p>
+<p>🎹A curious fact about me is that I love musical instruments and I learn them all by myself very easily.</p>
 
 ## Technologies I use the most
 
