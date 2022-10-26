@@ -4,9 +4,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-marques-95961b217/)
 
 
-😊Hi, my name is Ludmila.
-😁I'm a Brazilian living in Barcelona
-😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.
+<p>😊Hi, my name is Ludmila.</p>
+<p>😁I'm a Brazilian living in Barcelona</p>
+<p>😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.</p>
 
 ## Technologies I use the most
 
