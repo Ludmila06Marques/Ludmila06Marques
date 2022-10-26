@@ -1,6 +1,7 @@
 
 
 ### Welcome to my profile !  :P 👋
+[![wakatime](https://wakatime.com/badge/user/89988ffe-63aa-447e-9044-a2663635502b.svg)](https://wakatime.com/@89988ffe-63aa-447e-9044-a2663635502b)
 <p>😊Hi, my name is Ludmila.</p>
 <p>😁I'm a Brazilian living in Barcelona</p>
 <p>😉I am an electrical engineering student at Universidade Federal de Goiás and full stack development at Driven education.</p>
@@ -47,4 +48,4 @@
   
 ### You can also find me here:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-marques-95961b217/)
-[![wakatime](https://wakatime.com/badge/user/89988ffe-63aa-447e-9044-a2663635502b.svg)](https://wakatime.com/@89988ffe-63aa-447e-9044-a2663635502b)
+
