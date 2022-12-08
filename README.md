@@ -39,13 +39,6 @@
  
 </div><br/>
 
-
-### Languages and Tools:
-<div display="flex" >
-  <a href="https://github.com/Ludmila06Marques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ludmila06Marques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludmila06Marques&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 ### You can also find me here:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-marques-95961b217/)
